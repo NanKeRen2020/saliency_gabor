@@ -15,15 +15,15 @@ step2: ./saliency_gabor  deep21.bmp
  
 original image
 
-![image](https://github.com/NanKeRen2020/saliency_gabor/blob/main/cpp/deep21.bmp)
+![image](https://github.com/NanKeRen2020/saliency_gabor/blob/main/saliency_gabor/deep21.bmp)
 
 result image
 
-![image](https://github.com/NanKeRen2020/saliency_gabor/blob/main/cpp/result.png)
+![image](https://github.com/NanKeRen2020/saliency_gabor/blob/main/saliency_gabor/result.png)
 
 sum of result image
 
-![image](https://github.com/NanKeRen2020/saliency_gabor/blob/main/cpp/result_sum.png)
+![image](https://github.com/NanKeRen2020/saliency_gabor/blob/main/saliency_gabor/result_sum.png)
 
 
 Enjoy!!!
