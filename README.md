@@ -31,3 +31,7 @@ sum of result image
 
 Enjoy!!!
 ========
+
+References
+==========
+[1] Murray, N. , et al. "Saliency estimation using a non-parametric low-level vision model." CVPR 2011 IEEE, 2011.
