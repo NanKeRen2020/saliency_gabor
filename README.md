@@ -1,4 +1,5 @@
-
+About
+=====
 
 reimplement Saliency Estimation using a non-parametric vision model of Naila Murray in C++
 
