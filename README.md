@@ -2,10 +2,13 @@
 
 reimplement Saliency Estimation using a non-parametric vision model of Naila Murray in C++
 
-Environments:
+Environments
+============
+
 Ubuntu1604  OpenCV3.4
 
-Build & Run:
+Build & Run
+===========
 
 cd saliency_gabor
 
@@ -27,3 +30,4 @@ sum of result image
 
 
 Enjoy!!!
+========
